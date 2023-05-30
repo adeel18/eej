@@ -5,7 +5,7 @@ import { DashboardContent } from "./DashboardContent";
 import { Footer } from "../Footer";
 
 export const Dashboard = (prop) => {
-  return (      
+  return (
     <div className="d-flex flex-column flex-root app-root" id="kt_app_root">
       <div className="app-page flex-column flex-column-fluid" id="kt_app_page">
         
